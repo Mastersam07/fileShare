@@ -1,0 +1,45 @@
+html,body{margin:0;padding:0;}
+body{font: 90% Calibri,sans-serif;text-align:center}
+p{margin:0 10px 10px}
+a{padding:5px; text-decoration:none; color:#000000;}
+a:hover{color:green;}
+div#header{background-color:#F3F2ED;}
+div#header h1{height:80px;line-height:80px;margin:0;padding-left:10px;}
+div#container{text-align:left}
+div#content p{line-height:1.4;text-align:justify;}
+div#navigation{background:#F6F0E0;}
+div#navigation ul{margin-left:10px; list-style-type:square;}
+div#navigation li{margin-bottom:5px;}
+div#footer{background:#BFBD93;}
+div#footer p{margin:0;padding:5px 10px}
+div#container{width:700px;margin:0 auto}
+div#content{float:right;width:500px}
+div#navigation{float:left;width:200px;height:500px}
+div#footer{clear:both;width:100%}
+
+
+
+#heading{text-align:center;}
+#center{height:auto;width:300px;margin-left:100px;}
+label,input,button,select{display:block;margin-top:5px;margin-bottom:5px;}
+input,select,textarea{width:100%;}
+/* Message */
+.error{color:red;text-align:center;}
+.success{color:green;text-align:center;}
+
+/* Counting Page */
+
+#count{margin-left:10px; list-style-type:square;}
+#count li{margin-bottom:5px;}
+
+
+/*Table Design */
+table{
+	border-collapse:collapse;
+	width:100%;
+}
+table td,table th{
+border:1px solid #ddd;
+padding:5px;
+}
+
